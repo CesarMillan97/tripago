@@ -1,0 +1,28 @@
+{
+   "trips": [
+      {
+         "title": "2 Night stay in benice",
+         "price": "$123",
+         "id": "1",
+         "loc": "europe"
+      },
+      {
+         "title": "3 Night stay in Paris",
+         "price": "$567",
+         "id": "2",
+         "loc": "europe"
+      },
+      {
+         "title": "5 Night stay in Metepec",
+         "price": "$567",
+         "id": "3",
+         "loc": "europe"
+      },
+      {
+         "title": "4 Night stay in Toluca",
+         "price": "$432",
+         "id": "4",
+         "loc": "america"
+      }
+   ]
+}
